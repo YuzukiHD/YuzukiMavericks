@@ -1,6 +1,9 @@
 # Yuzuki Mavericks
 
-YuzukiMavericks is a small USB-shaped Linux development board base on F1C200s
+YuzukiMavericks is your small USB Flash Driver-shaped Linux development board base on F1C200s
+
+# Software
+Buildroot=YuzukiSBC: https://github.com/YuzukiHD/Buildroot-YuzukiSBC
 
 ![YuzukiRulerPro](/Bitmap/M1.jpg)
 
